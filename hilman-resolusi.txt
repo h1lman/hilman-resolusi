@@ -1,5 +1,5 @@
 Hilman Resolusi
-- belajar coding php untuk membangun ERC education
 - konsisten untuk mempelajari open source ERP education yang ada
 - membuat ERP education untuk Ma'had 
 - mengaplikasikan ERP tersebut untuk Ma'had
+- kolaborasi dengan expert terkait ERP education
